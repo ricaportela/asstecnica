@@ -1,13 +1,13 @@
-# libpythonpro
+# asstecnica
 Modulo para exemplificar construção de projetos Python no modulo PyTools
             
 Neste curso é ensinado como contribuir com projetos de código aberto, o famoso OpenSource.
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
-[![Build Status](https://travis-ci.org/ricaportela/libpythonpro.svg?branch=master)](https://travis-ci.org/ricaportela/libpythonpro)
-[![Updates](https://pyup.io/repos/github/ricaportela/libpythonpro/shield.svg)](https://pyup.io/repos/github/ricaportela/libpythonpro/)
-[![Python 3](https://pyup.io/repos/github/ricaportela/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/ricaportela/libpythonpro/)
+[![Build Status](https://travis-ci.org/ricaportela/asstecnica.svg?branch=master)](https://travis-ci.org/ricaportela/asstecnica)
+[![Updates](https://pyup.io/repos/github/ricaportela/asstecnica/shield.svg)](https://pyup.io/repos/github/ricaportela/asstecnica/)
+[![Python 3](https://pyup.io/repos/github/ricaportela/asstecnica/python-3-shield.svg)](https://pyup.io/repos/github/ricaportela/asstecnica/)
 
 
 Suportada versão 3 de Python
